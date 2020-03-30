@@ -4,9 +4,9 @@ Project developed at [RocketSeat's OmniStack Week](https://rocketseat.com.br/).<
 
 ***
 For the development of the project, the following had been used:
+* API en Heroku
 ### Backend:
 * NodeJS / Express
-*
 ### Frontend:
 * ReactJS
 ### Mobile:
