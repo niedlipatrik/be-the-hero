@@ -4,7 +4,9 @@ Project developed at [RocketSeat's OmniStack Week](https://rocketseat.com.br/).<
 
 ***
 For the development of the project, the following had been used:
-* API en Heroku
+### [www.niedlipatrik-be-the-hero.netlify.com](https://niedlipatrik-be-the-hero.netlify.com/)
+* API en heroku.com
+* React en netlify.com
 ### Backend:
 * NodeJS / Express
 ### Frontend:
